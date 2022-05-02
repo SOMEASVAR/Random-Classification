@@ -10,13 +10,10 @@ To write a python program to perform random classification.
 2. Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Related Theoritical Concept:
-```
-1.matplotlib.pyplot as plt-used to represent the given data set in a 
-graphical manner. 
-2.sklearn-used for statistical modelling and build machine learning models. 
-3.datasets-used to introduce many small datasets and fetch large data sets. 
-4.make_blobs-used to generate blobs of points with a gaussian distribution.
-```
+
+matplotlib.pyplot as plt-used to represent the given data set in a 
+graphical manner.sklearn-used for statistical modelling and build machine learning models.datasets-used to introduce many small datasets and fetch large data sets.make_blobs-used to generate blobs of points with a gaussian distribution.
+
 ## Algorithm
 ## Step 1: 
 Import necessary libraries from packages. 
