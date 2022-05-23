@@ -46,6 +46,13 @@ plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
 ```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
 
 ## Output:
 ![Ex no 1.Random Classifier plot](1.jpg)
